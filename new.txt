@@ -1,1 +1,1 @@
-0.6.1 : -  Réglage de bug de la 0.6
+0.6.1 : - Réglage de bug de la 0.6
